@@ -1,1 +1,1 @@
-# rad-nerf-forge
+# RAD-NeRF Forge
